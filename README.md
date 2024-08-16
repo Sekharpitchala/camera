@@ -8,13 +8,13 @@ Photo Capture: Users can take photos directly from the web application.
 Photo Storage: Saves photos locally on the user's PC.
 Photo Management: Lists all captured photos with details such as filename and the time taken.
 
-**Technical Specifications**
+### Technical Specifications###
 **Frontend:** Angular/ReactJS
 **Backend:** Node.js
 **Database:** MongoDB
 **Languages:** JavaScript, HTML, CSS
 
-**Dependencies:**
+ ### Dependencies:###
 express
 mongoose
 multer
